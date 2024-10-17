@@ -1,0 +1,9 @@
+[package]
+name = "my_parser_kma_test_group3_invop"
+
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "test description"
+[dependencies]
+peg = "0.8.4"
